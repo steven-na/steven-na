@@ -1,7 +1,7 @@
 # *steven-na*
 *   🖥️  My website: [stvnc.dev](http://stvnc.dev)
 *   ✉️  You can contact me at [blake@stvnc.dev](mailto:blake@stvnc.dev)
-*   🧠  I'm currently learning C++ and Cybersecurity.
+*   🧠  I'm currently learning Rust (https://github.com/steven-na/doppler)
 
 ### My main setup
 
